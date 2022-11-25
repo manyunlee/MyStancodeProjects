@@ -14,9 +14,6 @@ BLACK_PIXEL = 160
 
 
 def main():
-    """
-    創作理念：看極光
-    """
 
     ko = SimpleImage('korea1.jpg')
 
